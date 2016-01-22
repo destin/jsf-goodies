@@ -8,6 +8,7 @@ TaglibToXSD.xslt transform.
 
  * jsf-impl-2.0.11-01.jar
  * jsf-impl-2.2.8-02.jar
+ * primefaces-5.3.jar
 
 TaglibToXSD.xslt transform was originally developed by Mark A. Ziesemer
 
