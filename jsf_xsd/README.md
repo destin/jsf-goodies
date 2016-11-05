@@ -17,6 +17,7 @@ Generating new XSD files / Regenerating existing XSDs
  2. Place `*.taglib.xml` files for given library into `jsf_xsd/<library_name>/taglibs`, 
     e.g. put `primefaces-p.taglib.xml` and `primefaces-pm.taglib.xml` from primefaces-5.3.jar in `jsf_xsd/primefaces-5.3/taglibs/`
  3. Run `groovy generateXSD.groovy`. The script finds all `*.taglib.xml` in all `jsf_xsd/<library_name>/taglibs` directories and generates XSD files into `jsf_xsd/<library_name>/` directory.
+ 4. (Optional) Create pull request for adding new library / library version to this repository.
 
 Remarks
 -------
